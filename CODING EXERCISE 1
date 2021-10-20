@@ -16,7 +16,7 @@ public class Exercise2 {
         System.out.println("6:00 pm - After finshing my exercise, i do sports or playing computer games. ");
         System.out.println("7:00 pm - I took a bath and do my prayer. ");
         System.out.println("8:00 pm - I eat my dinner and do my prayer ");
-        System.out.println("9:00 pm - I do revision on what do i learn today about java programming.");
+        System.out.println("9:00 pm - I do revision on programming work.");
         System.out.println("11:00 pm - I finish my revision and getting ready to sleep ");
         System.out.println("12:00 am - I sleep. ");
 	}
